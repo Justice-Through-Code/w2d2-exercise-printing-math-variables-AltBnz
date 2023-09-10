@@ -31,7 +31,6 @@ print((34.2 - 32) * 5 / 9)
 
 # Now, can you convert back?
 
-
 # def convert_5_to_fahrenheit():
     # Convert a temperature of 5 degrees celsius to fahrenheit and print it out
 
